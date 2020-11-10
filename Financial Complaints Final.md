@@ -1,6 +1,8 @@
 
 # CFPB - Complaints Database
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~dz777/1.embed" height="525" width="100%"></iframe>
+
 <img src="./CFPB_closer.jpg" width="700" height="350">
 
 The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov) (CFPB) was created through the Dodd-Frank Act as a response to questionable practices in the lending and investment industries leading up to the 2008 financial crisis and the Great Recession. The financial crisis led to new regulations of financial services companies. The CFPB is tasked with enforcing federal regulations on financial institutions and aims to help consumers better understand the details, costs, and risks of financial products <cite>[(*Forbes*)][1]</cite>.
